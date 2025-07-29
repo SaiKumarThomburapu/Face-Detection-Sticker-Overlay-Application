@@ -1,5 +1,7 @@
 Face Detection Sticker Overlay Application
+
 Overview
+
 This application automatically detects faces in videos and allows you to apply stickers to specific people throughout the entire video while preserving the original audio. It uses advanced computer vision to identify and group similar faces, then lets you selectively apply overlays.
 
 What Does This Application Do?
